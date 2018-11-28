@@ -1,0 +1,10 @@
+/Users/sallytong/project/netdemo/consoledemo/bin/Debug/netcoreapp2.0/consoledemo.deps.json
+/Users/sallytong/project/netdemo/consoledemo/bin/Debug/netcoreapp2.0/consoledemo.runtimeconfig.json
+/Users/sallytong/project/netdemo/consoledemo/bin/Debug/netcoreapp2.0/consoledemo.runtimeconfig.dev.json
+/Users/sallytong/project/netdemo/consoledemo/bin/Debug/netcoreapp2.0/consoledemo.dll
+/Users/sallytong/project/netdemo/consoledemo/bin/Debug/netcoreapp2.0/consoledemo.pdb
+/Users/sallytong/project/netdemo/consoledemo/obj/Debug/netcoreapp2.0/consoledemo.csproj.CoreCompileInputs.cache
+/Users/sallytong/project/netdemo/consoledemo/obj/Debug/netcoreapp2.0/consoledemo.AssemblyInfoInputs.cache
+/Users/sallytong/project/netdemo/consoledemo/obj/Debug/netcoreapp2.0/consoledemo.AssemblyInfo.cs
+/Users/sallytong/project/netdemo/consoledemo/obj/Debug/netcoreapp2.0/consoledemo.dll
+/Users/sallytong/project/netdemo/consoledemo/obj/Debug/netcoreapp2.0/consoledemo.pdb
